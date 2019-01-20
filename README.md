@@ -1,1 +1,2 @@
-# fassal
+# Railways
+(a)The work of choosing newspapers for every advertisement to be released is done manually.The rate/circulation of newspaper is checked manually from DAVP website, which is laborious and also is prone to error in noting down advertisement rate. (b) It is not feasible to monitor the release of news concerning Ministry of Railways-whether positive or negative due lack of resource/staff. Using digital technology, a system to be devised to inform/give notification in real time or within 12 Hrs.
